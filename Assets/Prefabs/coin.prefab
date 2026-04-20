@@ -74,6 +74,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   deathEffect: {fileID: 9165636297386740388, guid: a11164af6a07bd846a542eca4302a247, type: 3}
+  coinPickupSound: {fileID: 8300000, guid: d94cbd2623887064a8c34c41e9fa4e40, type: 3}
 --- !u!54 &4253962401689508599
 Rigidbody:
   m_ObjectHideFlags: 0
