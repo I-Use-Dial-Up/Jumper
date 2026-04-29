@@ -1,13 +1,10 @@
 ﻿using UnityEngine;
 
-public CoinCounter scoreText;
+public TextMeshProUGUI scoreText;
 
 public class CoinCounter
 {
 	public CoinCounter()
 	{
-
-
-
 	}
 }
